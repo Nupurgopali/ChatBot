@@ -17,4 +17,4 @@ jupyterlab-pygments==0.1.0
 
 
 request==2019.4.13
-requests==2.22.0
+requests==2.31.0
